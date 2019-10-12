@@ -1,0 +1,7 @@
+python 3.7
+Use Python anaconda and try in GUI/CMD envirtonment 
+as a begginer we can use Jupiter but for ML u may get confuse. so dont use it.
+use jupiter notebook and use shift+|enter to run cmds
+.py - python file
+.ipynb - notebook file
+
